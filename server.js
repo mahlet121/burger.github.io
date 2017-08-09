@@ -5,7 +5,7 @@
  //require method-override
  var methodOverride = require("method-override");
  //make the port flexable weather herocku or routes
- var port = process.env.PORT || 3000;
+ var PORT = process.env.PORT || 3000;
 
  var app = express();
 
@@ -32,4 +32,4 @@
 
  app.use("/", routes);
 
- app.listen(port);
+ app.listen(PORT);
