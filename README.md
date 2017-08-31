@@ -1,2 +1,2 @@
 # burger.github.io
-![BURGER](images/image1.PNG)
+![burger](images/image1.PNG)
