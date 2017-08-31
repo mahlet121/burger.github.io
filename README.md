@@ -1,2 +1,2 @@
 # burger.github.io
-![alt text](http://url/images/image1.png)
+![BURGER](images/image1.PNG)
